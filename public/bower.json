@@ -1,0 +1,20 @@
+{
+  "name": "clases",
+  "version": "1.0.0",
+  "authors": [
+    "Jesús M. López <jesus.m.lopez@wanadoo.es>"
+  ],
+  "description": "Clases en PHP",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
